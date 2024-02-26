@@ -3,18 +3,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362"  /></a> </p>
 
 
-<!--
-**chavi362/chavi362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Ldetect 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with
+- 💬 Ask me about 
+- 📫 How to reach me:emonahmaad@gmail.com
 - ⚡ Fun fact: ...
 <img  width="50%" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
 </div>
@@ -28,7 +25,7 @@ Here are some ideas to get you started:
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
--->
+
 
 
 <div align="center">
