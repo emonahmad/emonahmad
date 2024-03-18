@@ -9,11 +9,10 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://dev.to/lissy93" title="Dev.to - @Lissy93"><img src="https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/979052/alicia" title="StackOverflow - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://twitter.com/emon_ahmaad" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/17774182/emon-mia" title="StackOverflow - Emon Mia"><img src="https://img.shields.io/badge/-Alicia-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emon-ahmad-a98424233" title="LinkedIn - Emon Ahmad"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/NefariousnessFew9207/" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
   <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
