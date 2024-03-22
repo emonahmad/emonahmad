@@ -13,7 +13,7 @@
   <a href="https://stackoverflow.com/users/17774182/emon-mia" title="StackOverflow - Emon Mia"><img src="https://img.shields.io/badge/-Emon -f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emon-ahmad-a98424233" title="LinkedIn - Emon Ahmad"><img src="https://img.shields.io/badge/-Emon Ahmad-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/NefariousnessFew9207/" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
-  <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://ldetect.com" title="Personal Website - ldetect"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
@@ -28,11 +28,11 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      <img align="right" width="250" src="" alt="Emon Ahmads" />
       
 <blockquote>
 
-I software engineer based in London UK. And I love writing code!
+I software engineer based in  I love writing code!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
