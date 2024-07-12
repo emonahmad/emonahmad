@@ -35,7 +35,7 @@ I software engineer based in  I love writing code!
   
 I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
 
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+I also enjoy attending ([and sometimes winning](https://thetechwizerd.comj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
 
 I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
 
