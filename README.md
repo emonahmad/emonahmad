@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="" title="Email Address"><code>contact@ldetect.com</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │
+<a href="" title="Email Address"><code>hello@emonahmad.com</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │
 </p>
 
 <!-- Socials -->
