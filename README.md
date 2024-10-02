@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/emon-ahmad-a98424233" title="LinkedIn - Emon Ahmad"><img src="https://img.shields.io/badge/-Emon Ahmad-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://ldetect.com" title="Personal Website - ldetect"><img src="https://img.shields.io/badge/-ldetect.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
-</p>![93893794-6E99-4F61-9342-89ED6CBC8784_1_105_c](https://github.com/user-attachments/assets/e39ab76d-935b-4381-85df-0b2dddc0cba5)
+
 
 
    
