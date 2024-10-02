@@ -24,17 +24,10 @@
       <img align="right" width="250" src="" alt="Emon Ahmads" />
       
 <blockquote>
+   
+Passionate developer (since 2017) and tech enthusiast who is always up to learn about new things. Experienced system developer with a demonstrated history of working in the information technology and services industry. Skilled in .NET/.NET Core with C# (winforms, webforms, MVC, Web API, Minimal Api), Wordpress, Classic ASP, SQL Server, Php, Git, Docker, CMS, Javascript, ReactJs, HTML, CSS.
 
-I software engineer based in  I love writing code!
   
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
-
-I also enjoy attending ([and sometimes winning](https://thetechwizerd.comj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
-
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
-
-When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
-
 </blockquote>
     
 ----
@@ -44,21 +37,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   
   
 <!-- Blog Posts -->
-<details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
-    <p>
-       
-<a href="https://notes.aliciasykes.com"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="Alicia Sykes Blog" /></a>
-      
-      
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-----
-
-</p>
-</details>
 
 
 <!-- Tech Stack -->  
@@ -106,29 +84,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 
 <!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=lissy93' alt='Astro Dab'></a>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-2. 🗣 Commented on [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-3. 🔒 Closed issue [#112](https://github.com/Lissy93/web-check/issues/112) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-4. 🎉 Merged PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-5. 🗣 Commented on [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-6. 🔒 Closed issue [#113](https://github.com/Lissy93/web-check/issues/113) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-7. ❌ Closed PR [#1506](https://github.com/Lissy93/dashy/pull/1506) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 💪 Opened PR [#111](https://github.com/Lissy93/web-check/pull/111) in [Lissy93/web-check](https://github.com/Lissy93/web-check)
-9. 💪 Opened PR [#1510](https://github.com/Lissy93/dashy/pull/1510) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🎉 Merged PR [#246](https://github.com/Lissy93/personal-security-checklist/pull/246) in [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-<!--END_SECTION:activity-->
-
-----
-
-</p>
-</details>
 
 <!-- Snek -->   
 <p align="center">
