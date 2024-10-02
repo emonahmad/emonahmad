@@ -20,7 +20,7 @@
    
 <!-- Outer collapsible -->  
 
-  <summary><b>👤 About Me</b></summary>
+  <b>👤 About Me</b>
     <p>
       
 <blockquote>
@@ -37,7 +37,7 @@ Passionate developer (since 2017) and tech enthusiast who is always up to learn 
 
 
 <!-- Tech Stack -->  
-  <summary><b>🛠️ Tech Stack</b></summary>
+<b>🛠️ Tech Stack</b>
     <p>
 
 | **Category** | **Technologies** |
