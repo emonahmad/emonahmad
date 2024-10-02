@@ -18,13 +18,7 @@
 
    
 <!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
-  
-   <br>
-   
-<!-- About Section -->
-<details>
+
   <summary><b>👤 About</b></summary>
     <p>
       <img align="right" width="250" src="" alt="Emon Ahmads" />
