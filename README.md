@@ -20,15 +20,11 @@
    
 <!-- Outer collapsible -->  
 
-  <summary><b>👤 About</b></summary>
+  <summary><b>👤 About Me</b></summary>
     <p>
-      <img align="right" width="250" src="" alt="Emon Ahmads" />
       
 <blockquote>
-   
-Passionate developer (since 2017) and tech enthusiast who is always up to learn about new things. Experienced system developer with a demonstrated history of working in the information technology and services industry. Skilled in .NET/.NET Core with C# (winforms, webforms, MVC, Web API, Minimal Api), Wordpress, Classic ASP, SQL Server, Php, Git, Docker, CMS, Javascript, ReactJs, HTML, CSS.
-
-  
+Passionate developer (since 2017) and tech enthusiast who is always up to learn about new things. Experienced system developer with a demonstrated history of working in the information technology and services industry. Skilled in .NET/.NET Core with C# (winforms, webforms, MVC, Web API, Minimal Api), **Wordpress**, Classic ASP, SQL Server, Php, Git, Docker, CMS, Javascript, ReactJs, HTML, CSS.  
 </blockquote>
     
 ----
