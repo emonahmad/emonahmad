@@ -40,7 +40,6 @@ Passionate developer (since 2017) and tech enthusiast who is always up to learn 
 
 
 <!-- Tech Stack -->  
-<details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
 
@@ -60,30 +59,8 @@ Passionate developer (since 2017) and tech enthusiast who is always up to learn 
 ----      
 
   </p>
-</details>
+
   
-
-
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
-
-<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
-       
-
-
-**[➡️ More Metrics](/METRICS.md)**
-
-</p>
-</details>
-
-
-<!-- Recent Activity -->
 
 
 <!-- Snek -->   
